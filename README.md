@@ -25,7 +25,7 @@ zip_ref = zipfile.ZipFile(local_zip, 'r')
 zip_ref.extractall('./')
 zip_ref.close()
 ```
-![_$5XSXRR1~DX3U5_9%0[QI8.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1717157079881-4e2b366b-cf19-41c5-b31e-aa91eb76ec29.png#averageHue=%23f6f6f5&clientId=u3ca7d73f-f97c-4&from=paste&height=81&id=ubf516447&originHeight=88&originWidth=337&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=1253&status=done&style=none&taskId=uc3031296-c911-497b-a6d3-33a65372d96&title=&width=309.0909118652344)
+![_$5XSXRR1~DX3U5_9%0QI8.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1717157079881-4e2b366b-cf19-41c5-b31e-aa91eb76ec29.png#averageHue=%23f6f6f5&clientId=u3ca7d73f-f97c-4&from=paste&height=81&id=ubf516447&originHeight=88&originWidth=337&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=1253&status=done&style=none&taskId=uc3031296-c911-497b-a6d3-33a65372d96&title=&width=309.0909118652344)
 <a name="b7111c90"></a>
 ### 2.1.2 验证数据集
 打印数据集的相关信息以验证数据集的完整性。
